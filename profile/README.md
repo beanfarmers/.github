@@ -1,4 +1,4 @@
-## 🪴 Codebean, a Code Sharing Platform
+## 🪴 CodeBean, a Code Sharing Platform
 
 _Codebean_ is a website where developers from different fields can **share their thoughts** by uploading **short code snippets**.
 
