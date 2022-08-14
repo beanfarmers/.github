@@ -11,7 +11,7 @@ _Codebean_ is a website where developers from different fields can **share their
 - **Code**: Write in code editor with **syntax highlights** for **40+ programming languages**. Just write the file extension and the _CodeBean_ will **recognize the language**.
 
 <p align="center">
-  <img alt="Code syntax highlighting animated" src="https://user-images.githubusercontent.com/42485462/184523025-4b2f4933-368d-4bbe-93ce-5f39f9089566.gif">
+  <img alt="Code syntax highlighting animated" src="https://user-images.githubusercontent.com/42485462/184523351-3623b991-100b-4cbc-b81d-4f2cfd4ceca4.gif">
 </p>
 ​
 
