@@ -3,8 +3,9 @@
 _CodeBean_ is a website where developers from different fields can **share their thoughts** by uploading **short code snippets**.
 
 <p align="center">
-  <img alt="Code list page" width="75%" src="https://user-images.githubusercontent.com/42485462/184522705-db9b86e1-841c-483d-aa7a-5f5d77a59d9f.png">
+  <img alt="CodeBean Workflow 2022.08.15 22:30:00" width="75%" src="https://user-images.githubusercontent.com/42485462/184646550-ec277e76-19d4-4145-97d1-ac68df9e6ff1.gif">
 </p>
+
 
 ## Features
 
